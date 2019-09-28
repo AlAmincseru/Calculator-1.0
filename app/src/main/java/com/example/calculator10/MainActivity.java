@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     boolean add, sub, mul, div, root, pow, mod;
     Double var1,var2;
 
-    
+
     ImageButton buttondelete;
 
 
@@ -274,3 +274,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+/**<Button
+        android:id="@+id/button4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2"
+                tools:layout_editor_absoluteX="110dp"
+                tools:layout_editor_absoluteY="147dp" />
+ */
