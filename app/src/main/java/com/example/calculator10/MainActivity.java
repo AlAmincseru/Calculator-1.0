@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     Button btn0, btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btndot, btnadd, btnsub, btndiv, btnmul, btnequal, btnclear, btnmod, btnpow, btnroot;
     boolean add, sub, mul, div, root, pow, mod;
     Double var1,var2;
+
+    
     ImageButton buttondelete;
 
 
